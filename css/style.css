@@ -1,0 +1,8 @@
+/* Universals Section */
+.text-center {
+    text-align: center;
+}
+
+body{
+    box-sizing: border-box;
+}
